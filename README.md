@@ -45,3 +45,5 @@ Monetization
     NFT Art Generation: Empower users to directly mint their AI-generated art as NFTs and monetize their creations through a percentage transaction fee.
 
 ![Screenshot](ss2.png)
+
+<video src='https://github.com/PDragonLabs/AI-Art-Creator-Generate-unique-artworks/blob/main/PlaiDay_pdragonlabs_AI_Art_Creator_Generate_unique_artworks_2060961432.mp4' width=180/>
