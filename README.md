@@ -32,7 +32,7 @@ Getting Started
 
     Targeted Marketing: Reach out to a wide audience of digital artists, designers, hobbyists, creators, and NFT enthusiasts to expand your user base.
  
-    ![Screenshot](Screenshot%202023-11-14%20at%2022-50-22%20lets%20build%20this%20one%20-AI%20Art%20Creator%20Generate%20unique%20artworks%20based%20on%20different%20styles%20subjects%20and%20media%20using%20AI%20image%20generation%20Monetize%20by%20allowing%20users%20to%20purchase%20prints%20or%20digital%20copies-1.pdf.png)
+![Screenshot](Screenshot%202023-11-14%20at%2022-50-22%20lets%20build%20this%20one%20-AI%20Art%20Creator%20Generate%20unique%20artworks%20based%20on%20different%20styles%20subjects%20and%20media%20using%20AI%20image%20generation%20Monetize%20by%20allowing%20users%20to%20purchase%20prints%20or%20digital%20copies-1.pdf.png)
  
 Monetization
 
@@ -44,4 +44,4 @@ Monetization
 
     NFT Art Generation: Empower users to directly mint their AI-generated art as NFTs and monetize their creations through a percentage transaction fee.
 
-    ![Screenshot](ss2.png)
+![Screenshot](ss2.png)
