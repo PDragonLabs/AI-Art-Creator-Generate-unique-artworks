@@ -1,6 +1,8 @@
 AI-Art-Creator: Generate Unique Artworks
 
 AI Art Creator empowers you to generate unique artworks based on different styles, subjects, and media using AI image generation. Monetize your creativity by allowing users to purchase prints or digital copies of your creations.
+
+
 Features
 
     Text-to-Image Generation: Unleash your creativity by simply describing a scene or subject in text and watch as the AI generates the corresponding artwork.
@@ -13,15 +15,8 @@ Features
 
     Custom Image Generation: Gain control over the creative process by customizing variables like subjects, colors, composition, and more to craft tailored art.
 
-Monetization
+  ![Screenshot](ss1f.png)
 
-    Print-on-Demand: Partner with a print-on-demand service to allow users to order physical prints of their generated art, shipped directly to their doorstep.
-
-    Digital Downloads: Offer users the option to purchase high-resolution PNG or JPEG downloads of their AI-generated art for digital use.
-
-    Subscription Plan: Provide a premium monthly subscription plan for unlimited image generation, along with exclusive styles and customization options.
-
-    NFT Art Generation: Empower users to directly mint their AI-generated art as NFTs and monetize their creations through a percentage transaction fee.
 
 Getting Started
 
@@ -36,5 +31,17 @@ Getting Started
     E-commerce Integration: Seamlessly integrate e-commerce and payment systems to handle print orders, digital downloads, and subscription payments.
 
     Targeted Marketing: Reach out to a wide audience of digital artists, designers, hobbyists, creators, and NFT enthusiasts to expand your user base.
+ 
+    ![Screenshot](Screenshot%202023-11-14%20at%2022-50-22%20lets%20build%20this%20one%20-AI%20Art%20Creator%20Generate%20unique%20artworks%20based%20on%20different%20styles%20subjects%20and%20media%20using%20AI%20image%20generation%20Monetize%20by%20allowing%20users%20to%20purchase%20prints%20or%20digital%20copies-1.pdf.png)
+ 
+Monetization
 
-    ![alt text](https://raw.githubusercontent.com/PDragonLabs/AI-Art-Creator-Generate-unique-artworks/main/ss1f.png)
+    Print-on-Demand: Partner with a print-on-demand service to allow users to order physical prints of their generated art, shipped directly to their doorstep.
+
+    Digital Downloads: Offer users the option to purchase high-resolution PNG or JPEG downloads of their AI-generated art for digital use.
+
+    Subscription Plan: Provide a premium monthly subscription plan for unlimited image generation, along with exclusive styles and customization options.
+
+    NFT Art Generation: Empower users to directly mint their AI-generated art as NFTs and monetize their creations through a percentage transaction fee.
+
+    ![Screenshot](ss2.png)
