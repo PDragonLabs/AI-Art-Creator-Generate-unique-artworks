@@ -37,6 +37,4 @@ Getting Started
 
     Targeted Marketing: Reach out to a wide audience of digital artists, designers, hobbyists, creators, and NFT enthusiasts to expand your user base.
 
-    ![alt text](https://github.com/PDragonLabs/AI-Art-Creator-Generate-unique-artworks/blob/main/ss1f.png?raw=true)
-
-
+    ![alt text](https://raw.githubusercontent.com/PDragonLabs/AI-Art-Creator-Generate-unique-artworks/main/ss1f.png)
