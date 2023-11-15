@@ -1,4 +1,4 @@
-AI-Art-Creator: Generate Unique Artworks
+(ACC) AI-Art-Creator: Generate Unique Artworks 
 
 AI Art Creator empowers you to generate unique artworks based on different styles, subjects, and media using AI image generation. Monetize your creativity by allowing users to purchase prints or digital copies of your creations.
 
